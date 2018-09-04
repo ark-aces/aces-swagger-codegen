@@ -1,3 +1,11 @@
+# ACES Swagger Codegen
+
+This is the Swagger Codegen fork for ACES SDKs.
+
+Packages are published to the [ACES Artifactory Repostiory](https://bintray.com/ark-aces/aces-maven/).
+
+Note: currently only Java SDK is set up to publish to the artifactory repository.
+
 # Swagger Code Generator
 
 - Master (2.4.0): [![Build Status](https://img.shields.io/travis/swagger-api/swagger-codegen/master.svg?label=Petstore%20Integration%20Test)](https://travis-ci.org/swagger-api/swagger-codegen)
